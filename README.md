@@ -3,7 +3,7 @@
 
 <p align="center">
 💻 Apaixonado por tecnologia e sempre buscando aprender algo novo.<br>
-🎯 Atualmente estudando <strong>Desenvolvimento Full Stack</strong> na FAMETRO.<br>
+🎯 Atualmente estudando <strong>Desenvolvimento Full Stack</strong>.<br>
 🌱 Focado em evoluir tanto no <strong>Front-end</strong> quanto no <strong>Back-end</strong>.<br>
 </p>
 
