@@ -1,5 +1,3 @@
-<!-- 🖤 README de Wissam Saleh -->
-
 <h1 align="center"> Olá, eu sou o <strong>Wissam Saleh</strong>!</h1>
 <h3 align="center">🚀 Estudante de Engenharia de Software e futuro Desenvolvedor Full Stack</h3>
 
@@ -46,7 +44,6 @@
 📚 Aprimorar meus conhecimentos em **JavaScript, Node.js e MySQL**  
 💡 Criar projetos pessoais que mostrem minha evolução como Full Stack  
 
----
 
 ## 📬 Contato
 <p align="center">
@@ -55,17 +52,3 @@
 </p>
 
 ---
-
-## ⚡ Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WissamSaleh&show_icons=true&theme=radical&hide_border=false&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WissamSaleh&layout=compact&theme=radical&hide_border=false" height="165">
-</p>
-
----
-
-
-
-
-
-
