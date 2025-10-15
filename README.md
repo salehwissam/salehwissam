@@ -1,32 +1,34 @@
-<!-- README de Wissam Saleh - Dark Tech Edition -->
+<!-- 🖤 README de Wissam Saleh -->
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&width=600&lines=Wissam+Saleh;Full+Stack+Developer;Software+Engineering+Student;Code+•+Create+•+Innovate)
+<h1 align="center"> Olá, eu sou o <strong>Wissam Saleh</strong>!</h1>
+<h3 align="center">🚀 Estudante de Engenharia de Software e futuro Desenvolvedor Full Stack</h3>
 
-</div>
+<p align="center">
+💻 Apaixonado por tecnologia e sempre buscando aprender algo novo.<br>
+🎯 Atualmente estudando <strong>Desenvolvimento Full Stack</strong> na FAMETRO.<br>
+🌱 Focado em evoluir tanto no <strong>Front-end</strong> quanto no <strong>Back-end</strong>.<br>
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 - 🎓 Estudante de **Engenharia de Software** na FAMETRO  
-- 💻 Focado em **Desenvolvimento Full Stack**  
-- ⚙️ Experiência com **Java** e **projetos acadêmicos**  
-- 🚀 Aprendendo e praticando com **Node.js**, **MySQL** e **tecnologias web**  
-- 🧩 Trabalhando em **projetos da faculdade** e iniciando **projetos pessoais**
+- 💼 Trabalhando em projetos da faculdade e começando projetos pessoais  
+- ⚙️ Aprendendo a construir aplicações completas, do design à lógica de negócio  
+- 🧩 Gosto de entender **como as coisas funcionam por trás do código**  
+- ☕ Café e música são meus aliados na hora de programar  
 
 ---
 
-## 💻 Stack Tecnológica
-
-### ⚙️ **Back-end**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
+## 💻 Tecnologias e Ferramentas
 ### 🌐 **Front-end**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ **Back-end**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗃️ **Banco de Dados**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,29 +41,31 @@
 
 ---
 
-## 🎯 Objetivos
-- 🔭 Desenvolver **projetos pessoais e acadêmicos** com foco em integração **Front-end + Back-end**  
-- ⚙️ Fortalecer habilidades em **JavaScript, Node.js e MySQL**  
-- 🧠 Evoluir continuamente no caminho para me tornar **Desenvolvedor Full Stack completo**
+## 🌟 Objetivos atuais
+🚧 Desenvolver aplicações completas com **Front-end e Back-end integrados**  
+📚 Aprimorar meus conhecimentos em **JavaScript, Node.js e MySQL**  
+💡 Criar projetos pessoais que mostrem minha evolução como Full Stack  
 
 ---
 
 ## 📬 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/wissam-saleh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:wissamgamer12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/wissam-saleh"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-## ⚡ Estatísticas GitHub
+## ⚡ Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WissamSaleh&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WissamSaleh&layout=compact&theme=tokyonight&hide_border=false" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=WissamSaleh&show_icons=true&theme=radical&hide_border=false&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WissamSaleh&layout=compact&theme=radical&hide_border=false" height="165">
 </p>
 
 ---
 
-## 🧮 Visitantes
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=WissamSaleh&icon=2&color=0&style=plastic" alt="Contador de visitas" />
-</p>
+
+
+
+
+
